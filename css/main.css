@@ -28,3 +28,16 @@ h1 {
 .text_container p {
     font-size: 1.4rem;
 }
+
+.text_container-bottom {
+    width: 50%;
+    margin: 0 auto;
+    padding: 16px;
+    background-color: bisque;
+    border-radius: 8px;
+    margin-top: 8px;
+}
+
+.text_container-bottom p {
+    font-size: 1.4rem;
+}
