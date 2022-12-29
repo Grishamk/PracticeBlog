@@ -13,5 +13,18 @@ h1 {
     font-size: 2.4rem;
     text-align: center;
     color: darkslategrey;
+    margin-top: 100px;
 }
 
+.text_container {
+    width: 50%;
+    margin: 0 auto;
+    padding: 16px;
+    background-color: bisque;
+    border-radius: 8px;
+    margin-top: 24px;
+}
+
+.text_container p {
+    font-size: 1.4rem;
+}
