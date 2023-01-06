@@ -15,14 +15,27 @@ header {
     width: 100%;
     height: 84px;
     box-shadow: 2px 8px 19px 8px rgba(0,0,0,0.21);
+    display: flex;
+    gap: 200px
+}
+
+header picture {
+    width: 50%;
+}
+
+header picture img{
+    width: 70px;
+    margin-left: 100px;
 }
 
 header ul{
+    width: 50%;
     list-style: none;
     display: flex;
     justify-content: flex-end;
     gap: 36px;
     margin-right: 70px;
+    margin-top: 45px;
 }
 
 
